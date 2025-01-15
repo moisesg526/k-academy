@@ -1,0 +1,40 @@
+main,
+nav,
+nav ul,
+h2,
+footer {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 2rem;
+}
+nav ul {
+  gap: 2rem;
+  color: #769ede;
+}
+
+.main-div li {
+  list-style: none;
+}
+
+.main-div a {
+  color: #fff;
+  background-color: #3485dc;
+  text-decoration: none;
+  padding: 0.4rem;
+  margin: 0.5rem;
+  border-radius: 4px;
+}
+
+footer {
+  background-color: #f6f5f5b3;
+  height: 10rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
